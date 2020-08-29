@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.js": "/Employee-Directory/static/js/main.6edb4763.chunk.js",
+    "main.js.map": "/Employee-Directory/static/js/main.6edb4763.chunk.js.map",
+    "runtime-main.js": "/Employee-Directory/static/js/runtime-main.965eecad.js",
+    "runtime-main.js.map": "/Employee-Directory/static/js/runtime-main.965eecad.js.map",
+    "static/js/2.8eb85c42.chunk.js": "/Employee-Directory/static/js/2.8eb85c42.chunk.js",
+    "static/js/2.8eb85c42.chunk.js.map": "/Employee-Directory/static/js/2.8eb85c42.chunk.js.map",
+    "index.html": "/Employee-Directory/index.html",
+    "precache-manifest.98307de3916dc1b485f68e01201bbf0d.js": "/Employee-Directory/precache-manifest.98307de3916dc1b485f68e01201bbf0d.js",
+    "service-worker.js": "/Employee-Directory/service-worker.js",
+    "static/js/2.8eb85c42.chunk.js.LICENSE.txt": "/Employee-Directory/static/js/2.8eb85c42.chunk.js.LICENSE.txt",
+    "static/media/p1.jpg": "/Employee-Directory/static/media/p1.d297cb90.jpg",
+    "static/media/p4.jpg": "/Employee-Directory/static/media/p4.ade92f6e.jpg",
+    "static/media/p5.jpg": "/Employee-Directory/static/media/p5.912a7b71.jpg",
+    "static/media/p6.jpg": "/Employee-Directory/static/media/p6.38c6d378.jpg",
+    "static/media/p7.jpg": "/Employee-Directory/static/media/p7.306d1e59.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.965eecad.js",
+    "static/js/2.8eb85c42.chunk.js",
+    "static/js/main.6edb4763.chunk.js"
+  ]
+}
